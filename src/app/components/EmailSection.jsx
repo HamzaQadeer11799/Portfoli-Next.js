@@ -46,8 +46,8 @@ if(response.ok){
       <div className="z-10">
         <h5 className="text-xl font-bold text-white my-2">Let's Connect</h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
-          I'm currently looking for new opportunities, my inbox is always open.
-          Whether you have a question, suggestion or feedback, I'll try my best
+          I&apos;m currently looking for new opportunities, my inbox is always open.
+          Whether you have a question, suggestion or feedback, I&apos;ll try my best
           to get back to you!
         </p>
         <div className="socials flex flex-row gap-2">
@@ -120,7 +120,7 @@ text-gray-100 text-sm rounded-lg block w-full p-2.5"
             id="message"
             className="bg-[#18191E] border-[#33353F] placeholder-[#9CA2A9]
 text-gray-100 text-sm rounded-lg block w-full p-2.5"
-            placeholder="Let' talk about..."
+            placeholder="Let talk about..."
           />
         </div>
         <button type='submit' className="bg-primary-500 hover:bg-primary-600 text-white font-medium py-2.5 px-5 rounded-lg w-full ">

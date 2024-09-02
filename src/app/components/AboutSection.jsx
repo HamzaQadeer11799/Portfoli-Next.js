@@ -24,7 +24,7 @@ const TAB_DATA= [{
     id:"education",
     content:(
         <ul className='list-disc pl-2'>
-            <li>Bachelor's of Science in Software Engineering</li>
+            <li>Bachelor&apos; of Science in Software Engineering</li>
             <li>SZABIST University, Isb</li>
             <li>CGPA: 3.51</li>
         </ul>
